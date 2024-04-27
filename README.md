@@ -4,13 +4,11 @@ This repository contains code and resources related to the implementation of the
 
 Please cite the original paper when you use this repo:
 ```
-@misc{nguyen2024transfer,
-      title={Transfer Learning in ECG Diagnosis: Is It Effective?}, 
-      author={Cuong V. Nguyen and Cuong D. Do},
-      year={2024},
-      eprint={2402.02021},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{nguyen2024transfer,
+  title={Transfer Learning in ECG Diagnosis: Is It Effective?},
+  author={Nguyen, Cuong V and Do, Cuong D},
+  journal={arXiv preprint arXiv:2402.02021},
+  year={2024}
 }
 ```
 
