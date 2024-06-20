@@ -39,7 +39,7 @@ def train(model_name, data_dir, model_instance, device, train_data, val_data=Non
     )
 
     best_f1 = 0.0
-    num_epochs = 50
+    num_epochs = 100
     for epoch in range(1, num_epochs + 1):
         model.train()
         for batch_idx, (data, labels) in enumerate(train_loader):
